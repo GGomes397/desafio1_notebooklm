@@ -1,13 +1,15 @@
 # desafio_notebooklm
+
 link : https://notebook.google.com/notebook/fedfbe14-37b3-4583-adae-db5c00214653
+
 O módulo da atividade que foi baseado o desafio o tema central era inteligência Artificial exploramos desde noções históricas do assunto , a boas práticas no uso das ferramentas entre outros. Para realizarmos esse desafio foi necessário criarmos um "segundo cérebro " no notebooklm e o tema que eu escolhi foi o aprendizado de línguas estrangeiras para adultos com TDAH com o objetivo de fazer um guia de aprendizado.
 ### Fontes 
 As fontes usadas foram :
-https://www.sciencedirect.com/science/article/pii/S2215039024000298?__cf_chl_tk=Rjtx5_SC7Hjc0r9XKXUwztb.IQvjAyDVu1HKTjRvtXQ-1787091437-1.0.1.1-U37bhjQ.T2NohqYq4iRNGGWtIU6t4wEszsSYt5sIkfc
-https://www.youtube.com/watch?v=HF7XO9bKopI
-https://www.youtube.com/watch?v=a-omjbMH7Yw
-https://www.youtube.com/watch?v=lZPHuLDCO2E
-https://pmc.ncbi.nlm.nih.gov/articles/PMC12686185/
+- https://www.sciencedirect.com/science/article/pii/S2215039024000298?__cf_chl_tk=Rjtx5_SC7Hjc0r9XKXUwztb.IQvjAyDVu1HKTjRvtXQ-1787091437-1.0.1.1-U37bhjQ.T2NohqYq4iRNGGWtIU6t4wEszsSYt5sIkfc 
+- https://www.youtube.com/watch?v=HF7XO9bKopI 
+- https://www.youtube.com/watch?v=a-omjbMH7Yw 
+- https://www.youtube.com/watch?v=lZPHuLDCO2E 
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC12686185/
 
 ### Engenharia de Prompts e "Cicatrizes"
 Prompts usados :
